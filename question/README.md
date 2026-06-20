@@ -1,6 +1,7 @@
 # YASM how to assemble and link with Linux
 
-yasm -f elf64 **prog_name.asm** **prog_name.o**
+yasm -f elf64 **prog_name.asm** **prog_name.o**  
+
 ld **prog_name.o** **prog_name**
 
 ## call it by
