@@ -1,3 +1,6 @@
+# Why assembly language?
+Some small programmes to help me learn assembly language. Indeed, without an understanding of this language, I wonder how it’s possible to gain a thorough understanding of C, for example.
+
 # YASM how to assemble and link with Linux
 
 yasm -f elf64 **prog_name.asm** **prog_name.o**  
